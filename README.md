@@ -1,8 +1,7 @@
 # <p align=center>Welcome to my Profile!
 
-### Introduction</br>
-Hi there! I am a computer engineer who is passionate in technology of Artificial Intelligence and Data-driven solutions.</br>
-I graduated from Sirindhorn Institute of Technology (SIIT) in Thailand in the field of Computer Engineering in Artificial Intelligence.
+### About Me</br>
+Hi there! I am a computer engineer who is passionate in technology of Artificial Intelligence and Data-driven solutions. I graduated from Sirindhorn Institute of Technology (SIIT) in Thailand in the field of Computer Engineering in Artificial Intelligence.
 
 ## Table of Contents
 + Projects in GitHub
@@ -28,6 +27,7 @@ I graduated from Sirindhorn Institute of Technology (SIIT) in Thailand in the fi
 _~Note_</br>
 The projects that can be found in this GitHub are a combination of multiple deep learning, machine learning projects, as well as data analysis on certain datasets. Some of the projects found here are done during studies for the 'Deep Learning' coursework.
 
+---
 ### Deep Learning Projects
 
 #### Diabetes Prediction
@@ -45,13 +45,19 @@ Source Repo: [Face-Generation](https://github.com/skyeded/Deep-Learning-Projects
 #### Human-Action-Prediction
 Source Repo: [Human-Action-Prediction](https://github.com/skyeded/Deep-Learning-Projects/tree/main/Human-Action-Prediction)
 
+---
 ### Data Analysis
 
 #### Car Sales Analysis
 
+---
 ## Experiences
 
 ### Internships
+
+#### __AI Researcher__ - Kanagawa Institute of Technology (Jan 2024 - May 2024) _Atsugi, Kanagawa, Japan_
+
+#### __Android Developer__ - LINEMAN Wongnai (May 2023 - August 2023) _Bangkok, Thailand_
 
 ## Certificates
 
