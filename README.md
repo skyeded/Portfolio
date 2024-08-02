@@ -9,9 +9,9 @@ Hi there! I am a computer engineer who is passionate in technology of Artificial
   
     + [Diabetes Prediction](#diabetes-prediction)
     + [TV-Script Generation](#tv-scripts-generation)
-    + [Dog Breeds Classification](dog-breeds-classification)
-    + [Face Generation](face-generation)
-    + [Human Action Prediction](human-action-prediction)
+    + [Dog Breeds Classification](#dog-breeds-classification)
+    + [Face Generation](#face-generation)
+    + [Human Action Prediction](#human-action-prediction)
   
   + Data Analysis
     + [Car Sales Analysis](#car-sales-analysis)
