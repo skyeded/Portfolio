@@ -8,10 +8,11 @@ I graduated from Sirindhorn Institute of Technology (SIIT) in Thailand in the fi
 + Projects in GitHub
   + Deep Learning
   
-    + Diabetes-Prediction
-    + TV-Script-Generation
-    + Dog-Breeds-Classification
-    + Face-Generation
+    + [Diabetes-Prediction](https://github.com/skyeded/Deep-Learning-Projects/tree/main/PIMA-Indian-Diabetes-Prediction)
+    + [TV-Script-Generation](https://github.com/skyeded/Deep-Learning-Projects/tree/main/TV-Scripts-Generation)
+    + [Dog-Breeds-Classification](https://github.com/skyeded/Deep-Learning-Projects/tree/main/Dog-Breeds-Classification)
+    + [Face-Generation](https://github.com/skyeded/Deep-Learning-Projects/tree/main/Face-Generations)
+    + [Human-Action-Prediction](https://github.com/skyeded/Deep-Learning-Projects/tree/main/Human-Action-Prediction)
   
   + Data Analysis
     + Car-Sales-Analysis
