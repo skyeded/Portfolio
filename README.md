@@ -15,11 +15,13 @@ I graduated from Sirindhorn Institute of Technology (SIIT) in Thailand in the fi
     + [Human Action Prediction](human-action-prediction)
   
   + Data Analysis
-    + Car Sales Analysis
+    + [Car Sales Analysis](#car-sales-analysis)
   
 + Experiences
   + Internships
+  
 + Certificates
++ Educations
 + Contact
 
 ## Projects in GitHub
@@ -42,3 +44,17 @@ Source Repo: [Face-Generation](https://github.com/skyeded/Deep-Learning-Projects
 
 #### Human-Action-Prediction
 Source Repo: [Human-Action-Prediction](https://github.com/skyeded/Deep-Learning-Projects/tree/main/Human-Action-Prediction)
+
+### Data Analysis
+
+#### Car Sales Analysis
+
+## Experiences
+
+### Internships
+
+## Certificates
+
+## Educations
+
+## Contact
