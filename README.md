@@ -18,11 +18,11 @@ I graduated from Sirindhorn Institute of Technology (SIIT) in Thailand in the fi
     + [Car Sales Analysis](#car-sales-analysis)
   
 + Experiences
-  + Internships
+  + [Internships](#internships)
   
-+ Certificates
-+ Educations
-+ Contact
++ [Certificates](#certificates)
++ [Educations](#educations)
++ [Contact](#contact)
 
 ## Projects in GitHub
 _~Note_</br>
