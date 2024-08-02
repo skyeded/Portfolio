@@ -31,23 +31,23 @@ The projects that can be found in this GitHub are a combination of multiple deep
 ### Deep Learning Projects
 
 #### Diabetes Prediction
-Source Repo: [Diabetes-Prediction](https://github.com/skyeded/Deep-Learning-Projects/tree/main/PIMA-Indian-Diabetes-Prediction)
+Source Repo: [Diabetes-Prediction](https://github.com/skyeded/Deep-Learning-Projects/tree/main/PIMA-Indian-Diabetes-Prediction) </br>
 Objective:
 
 #### TV Scripts Generation
-Source Repo: [TV-Scripts-Generation](https://github.com/skyeded/Deep-Learning-Projects/tree/main/TV-Scripts-Generation)
+Source Repo: [TV-Scripts-Generation](https://github.com/skyeded/Deep-Learning-Projects/tree/main/TV-Scripts-Generation) </br>
 Objective: To create or generate new tv scripts
 
 #### Dog-Breeds-Classification
-Source Repo: [Dog-Breeds-Classification](https://github.com/skyeded/Deep-Learning-Projects/tree/main/Dog-Breeds-Classification)
+Source Repo: [Dog-Breeds-Classification](https://github.com/skyeded/Deep-Learning-Projects/tree/main/Dog-Breeds-Classification) </br>
 Objective: To correctly classify the image of the dog into its breed
 
 #### Face-Generation
-Source Repo: [Face-Generation](https://github.com/skyeded/Deep-Learning-Projects/tree/main/Face-Generations)
+Source Repo: [Face-Generation](https://github.com/skyeded/Deep-Learning-Projects/tree/main/Face-Generations) </br>
 Objective: To generate face with and without entangling features
 
 #### Human-Action-Prediction
-Source Repo: [Human-Action-Prediction](https://github.com/skyeded/Deep-Learning-Projects/tree/main/Human-Action-Prediction)
+Source Repo: [Human-Action-Prediction](https://github.com/skyeded/Deep-Learning-Projects/tree/main/Human-Action-Prediction) </br>
 Objective: To predict the action that the human is performing
 
 ---
