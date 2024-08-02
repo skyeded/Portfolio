@@ -63,4 +63,8 @@ Source Repo: [Human-Action-Prediction](https://github.com/skyeded/Deep-Learning-
 
 ## Educations
 
+#### Sirindhorn Institute of Technology - Graduated First-class honor, Bachelor of Computer Engineer (May 2024)
+
+#### International Pioneers School - Diploma in Sciences
+
 ## Contact
