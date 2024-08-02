@@ -1,7 +1,14 @@
 # <p align=center>Welcome to my Profile!
 
-### About Me</br>
-Hi there! I am a computer engineer who is passionate in technology of Artificial Intelligence and Data-driven solutions. I graduated from Sirindhorn Institute of Technology (SIIT) in Thailand in the field of Computer Engineering in Artificial Intelligence.
+### About me</br>
+__Hi there!__</br>
+I am a fresh graduate from Sirindhorn Institute of Technology (SIIT) in the field of Computer Engineering who is very passionate in the field of artificial intelligence and data-driven technology.
+</br>
+</br>
+During my years of studies, I have experienced many forms of technology, especially AI, I was able to learn and added many implementations, and algorithms towards my skillset and utilize it into my projects and future project. I have also gain many relevant hard skills from two of my internships.
+</br>
+</br>
+I have always enjoyed coding, and I am often open to learning new programming languages from time to time when I am available to do so. Therefore, I am quite versatile in multiple progamming languages, but the most proficient language has to go to _Python_. I love to keep up with the advancement of technology by reading and watching news, usually topics that are related to Artificial Intelligence.
 
 ## Table of Contents
 + Projects in GitHub
