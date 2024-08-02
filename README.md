@@ -14,11 +14,11 @@ I have always enjoyed coding, and I am often open to learning new programming la
 + Projects in GitHub
   + Deep Learning
   
+    + [Human Action Prediction](#human-action-prediction)
     + [Diabetes Prediction](#diabetes-prediction)
     + [TV-Script Generation](#tv-scripts-generation)
     + [Dog Breeds Classification](#dog-breeds-classification)
     + [Face Generation](#face-generation)
-    + [Human Action Prediction](#human-action-prediction)
   
   + Data Analysis
     + [Car Sales Analysis](#car-sales-analysis)
@@ -30,40 +30,68 @@ I have always enjoyed coding, and I am often open to learning new programming la
 + [Educations](#educations)
 + [Contact](#contact)
 
-## Projects in GitHub
+## <p align=center>Projects in GitHub
 _~Note_</br>
-The projects that can be found in this GitHub are a combination of multiple deep learning, machine learning projects, as well as data analysis on certain datasets. Some of the projects found here are done during studies for the 'Deep Learning' coursework.
+The projects that can be found in this GitHub are a combination of multiple deep learning, machine learning projects, as well as data analysis on certain datasets. The projects found here can be part of the studies for the 'Deep Learning' coursework.
 
----
 ### Deep Learning Projects
 
-#### Diabetes Prediction
-Source Repo: [Diabetes-Prediction](https://github.com/skyeded/Deep-Learning-Projects/tree/main/PIMA-Indian-Diabetes-Prediction) </br>
-Objective:
-
-#### TV Scripts Generation
-Source Repo: [TV-Scripts-Generation](https://github.com/skyeded/Deep-Learning-Projects/tree/main/TV-Scripts-Generation) </br>
-Objective: To create or generate new tv scripts
-
-#### Dog-Breeds-Classification
-Source Repo: [Dog-Breeds-Classification](https://github.com/skyeded/Deep-Learning-Projects/tree/main/Dog-Breeds-Classification) </br>
-Objective: To correctly classify the image of the dog into its breed
-
-#### Face-Generation
-Source Repo: [Face-Generation](https://github.com/skyeded/Deep-Learning-Projects/tree/main/Face-Generations) </br>
-Objective: To generate face with and without entangling features
+---
 
 #### Human-Action-Prediction
 Source Repo: [Human-Action-Prediction](https://github.com/skyeded/Deep-Learning-Projects/tree/main/Human-Action-Prediction) </br>
+
 Objective: To predict the action that the human is performing
 
+Model Used: Convolutional Neural Networks + Long Short-Term Memory (LSTM)
+
 ---
+
+#### Diabetes Prediction
+Source Repo: [Diabetes-Prediction](https://github.com/skyeded/Deep-Learning-Projects/tree/main/PIMA-Indian-Diabetes-Prediction) </br>
+
+Objective: To correctly predict diabetes based on medical information
+
+Model Used: Multi-Layer Peceptron (MLP)
+
+---
+
+#### TV Scripts Generation
+Source Repo: [TV-Scripts-Generation](https://github.com/skyeded/Deep-Learning-Projects/tree/main/TV-Scripts-Generation) </br>
+
+Objective: To create or generate new tv scripts </br>
+
+Model Used: LSTM and BiLSTM (RNNs)
+
+Sypnosis: The dataset consists of the scripts from a popular sitcom called 'Seinfeld'. The data is a part of the scripts from season 1 to season 9 of the show. The model used are Long Short-Term Memory (LSTM) and Bilateral-LSTM (BiLSTM)
+which are types of Recurrent Neural Network (RNN). The idea is to replicate the personality of the scripts and generate new scripts that would consist of the same context that can be use in the show. This is perfect for the RNNs model since
+it is able to store the past information when training.
+
+---
+
+#### Dog-Breeds-Classification
+Source Repo: [Dog-Breeds-Classification](https://github.com/skyeded/Deep-Learning-Projects/tree/main/Dog-Breeds-Classification) </br>
+
+Objective: To correctly classify the image of the breed of the dog
+
+Model Used: Convolutional Neural Networks (CNN)
+
+---
+
+#### Face-Generation
+Source Repo: [Face-Generation](https://github.com/skyeded/Deep-Learning-Projects/tree/main/Face-Generations) </br>
+
+Objective: To generate face with and without entangling features
+
+Model Used: Generational Adversarial Network (GAN) & StarGAN
+
+---
+
 ### Data Analysis
 
 #### Car Sales Analysis
 
----
-## Experiences
+## <p align=center>Experiences
 
 ### Internships
 
@@ -71,12 +99,12 @@ Objective: To predict the action that the human is performing
 
 #### __Android Developer__ - LINEMAN Wongnai (May 2023 - August 2023) _Bangkok, Thailand_
 
-## Certificates
+## <p align=center>Certificates
 
-## Educations
+## <p align=center>Educations
 
 #### Sirindhorn Institute of Technology - Graduated First-class honor, Bachelor of Computer Engineer (May 2024)
 
 #### International Pioneers School - Diploma in Sciences
 
-## Contact
+## <p align=center>Contact
