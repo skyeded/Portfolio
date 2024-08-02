@@ -8,7 +8,7 @@ I graduated from Sirindhorn Institute of Technology (SIIT) in Thailand in the fi
 + Projects in GitHub
   + Deep Learning
   
-    + [Diabetes-Prediction](id=diabetes)
+    + [Diabetes-Prediction](#diabetes-prediction)
     + [TV-Script-Generation]
     + [Dog-Breeds-Classification]
     + [Face-Generation]
@@ -28,7 +28,7 @@ The projects that can be found in this GitHub are a combination of multiple deep
 
 ### Deep Learning Projects
 
-#### <div id=diabetes> Diabetes-Prediction </div>
+#### Diabetes Prediction
 
 #### TV-Script-Generation
 
