@@ -14,7 +14,7 @@ I have always enjoyed coding, and I am often open to learning new programming la
 + Projects in GitHub
   + Deep Learning
   
-    + [Human Action Prediction](#human-action-prediction)
+    + [Human Action Prediction](#humans-action-prediction)
     + [Diabetes Prediction](#diabetes-prediction)
     + [TV-Script Generation](#tv-scripts-generation)
     + [Dog Breeds Classification](#dog-breeds-classification)
@@ -38,7 +38,7 @@ The projects that can be found in this GitHub are a combination of multiple deep
 
 ---
 
-#### Human-Action-Prediction
+#### Humans Action Prediction
 Source Repo: [Human-Action-Prediction](https://github.com/skyeded/Deep-Learning-Projects/tree/main/Human-Action-Prediction) </br>
 
 Objective: To predict the action that the human is performing
@@ -69,7 +69,7 @@ it is able to store the past information when training.
 
 ---
 
-#### Dog-Breeds-Classification
+#### Dog Breeds Classification
 Source Repo: [Dog-Breeds-Classification](https://github.com/skyeded/Deep-Learning-Projects/tree/main/Dog-Breeds-Classification) </br>
 
 Objective: To correctly classify the image of the breed of the dog
@@ -78,7 +78,7 @@ Model Used: Convolutional Neural Networks (CNN)
 
 ---
 
-#### Face-Generation
+#### Face Generation
 Source Repo: [Face-Generation](https://github.com/skyeded/Deep-Learning-Projects/tree/main/Face-Generations) </br>
 
 Objective: To generate face with and without entangling features
