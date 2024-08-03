@@ -45,6 +45,10 @@ Objective: To predict the action that the human is performing
 
 Model Used: Convolutional Neural Networks + Long Short-Term Memory (LSTM)
 
+Sypnosis: The dataset used was UCF101 Dataset, where it contain multiple videos of human/people performing many actions that are catgorizes into different folder.
+To corrrectly predict the actions of a person from the video in real time, it is necessary to implement the ability to sequence in real time. The hybrid of CNN and LSTM was proposed
+because the combined power of the ability to intricately extract features from static input, and the ability to extract information from the past or sequential extraction is very powerful in this case of input.
+
 ---
 
 #### Diabetes Prediction
