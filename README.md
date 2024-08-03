@@ -54,9 +54,13 @@ because the combined power of the ability to intricately extract features from s
 #### Diabetes Prediction
 Source Repo: [Diabetes-Prediction](https://github.com/skyeded/Deep-Learning-Projects/tree/main/PIMA-Indian-Diabetes-Prediction) </br>
 
-Objective: To correctly predict diabetes based on medical information
+Objective: To diagnostically predict whether or not a patient has diabetes
 
 Model Used: Multi-Layer Peceptron (MLP)
+
+Sypnosis: The dataset used was the PIMA Indian dataset, where it contain diagnostic measurements (such as isulin, blood pressure, glucose, etc.) and the outcome of having diabetes.
+By training the model to understand and predict the dependant variable using independant variables, complex neural networks has to be used in order to receive maximum precision and accuracy,
+which was the reason for using the multi-layer perceptron.
 
 ---
 
@@ -80,6 +84,9 @@ Objective: To correctly classify the image of the breed of the dog
 
 Model Used: Convolutional Neural Networks (CNN)
 
+Sypnosis: The dataset contain multiple images of dogs from many breeds. To utilize the best feature extraction method the CNN can be use for these type of data. By using convolutional layers, CNN is best at finding patterns in images
+and extract these patterns by losing it dimensionality but keeping its information (downsampling).
+
 ---
 
 #### Face Generation
@@ -88,6 +95,8 @@ Source Repo: [Face-Generation](https://github.com/skyeded/Deep-Learning-Projects
 Objective: To generate face with and without entangling features
 
 Model Used: Generational Adversarial Network (GAN) & StarGAN
+
+Sypnosis: 
 
 ---
 
