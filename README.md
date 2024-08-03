@@ -96,7 +96,8 @@ Objective: To generate face with and without entangling features
 
 Model Used: Generational Adversarial Network (GAN) & StarGAN
 
-Sypnosis: 
+Sypnosis: The dataset used was the CelebA datasets, which contain numerous amount of celebrity images. GAN model was used to conduct and train these samples data to generate facial images with random noises.
+By leveraging the use of StarGAN facial images can also be created with entangling features. For example, large noses, glasses, skin color, etc.
 
 ---
 
