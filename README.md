@@ -77,7 +77,7 @@ it is able to store the past information when training.
 #### Dog Breeds Classification
 Source Repo: [Dog-Breeds-Classification](https://github.com/skyeded/Deep-Learning-Projects/tree/main/Dog-Breeds-Classification) </br>
 
-Objective: To correctly classify the image of the breed of the dog
+Objective: To correctly classify dog breeds from images
 
 Model Used: Convolutional Neural Networks (CNN)
 
