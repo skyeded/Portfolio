@@ -9,7 +9,7 @@ I have always enjoyed coding, and I am often open to learning new programming la
 ## Table of Contents
 + [About me](#about-me)
 + Projects in GitHub
-  + Deep Learning
+  + [Deep Learning](https://github.com/skyeded/Deep-Learning-Projects)
   
     + [Human Action Prediction](#humans-action-prediction)
     + [Diabetes Prediction](#diabetes-prediction)
@@ -17,7 +17,7 @@ I have always enjoyed coding, and I am often open to learning new programming la
     + [Dog Breeds Classification](#dog-breeds-classification)
     + [Face Generation](#face-generation)
   
-  + Data Analysis
+  + Data Analysis 
     + [Car Sales Analysis](#car-sales-analysis)
   
 + Experiences
@@ -106,16 +106,16 @@ By leveraging the use of StarGAN facial images can also be created with entangli
 
 ### Internships
 
-#### __AI Researcher__ - Kanagawa Institute of Technology (Jan 2024 - May 2024) _Atsugi, Kanagawa, Japan_
+#### 💡AI Researcher - Kanagawa Institute of Technology (Jan 2024 - May 2024) _Atsugi, Kanagawa, Japan_
 
-#### __Android Developer__ - LINEMAN Wongnai (May 2023 - August 2023) _Bangkok, Thailand_
+#### 💡Android Developer - LINEMAN Wongnai (May 2023 - August 2023) _Bangkok, Thailand_
 
 ## <p align=center>Certificates
 
 ## <p align=center>Educations
 
-#### Sirindhorn Institute of Technology - Graduated First-class honor, Bachelor of Computer Engineer (May 2024)
+#### 🎓Sirindhorn Institute of Technology - Graduated First-class honor, Bachelor of Computer Engineer (May 2024)
 
-#### International Pioneers School - Diploma in Sciences
+#### 🎓International Pioneers School - Diploma in Sciences
 
 ## <p align=center>Contact
