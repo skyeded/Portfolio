@@ -1,4 +1,4 @@
-# <p align=center>Welcome to my Portfolio!
+### <p align=center>Welcome to my Portfolio!
 
 ## Table of Contents
 + [About me](#about-me)
