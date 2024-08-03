@@ -1,16 +1,7 @@
-# <p align=center>Welcome to my Profile!
-
-### About me</br>
-__Hi there!__</br>
-I am a fresh graduate from Sirindhorn Institute of Technology (SIIT) in the field of Computer Engineering who is very passionate in the field of artificial intelligence and data-driven technology.
-</br>
-</br>
-During my years of studies, I have experienced many forms of technology, especially AI, I was able to learn and added many implementations, and algorithms towards my skillset and utilize it into my projects and future project. I have also gain many relevant hard skills from two of my internships.
-</br>
-</br>
-I have always enjoyed coding, and I am often open to learning new programming languages from time to time when I am available to do so. Therefore, I am quite versatile in multiple progamming languages, but the most proficient language has to go to _Python_. I love to keep up with the advancement of technology by reading and watching news, usually topics that are related to Artificial Intelligence.
+# <p align=center>Welcome to my Portfolio!
 
 ## Table of Contents
++ [About me](#about-me)
 + Projects in GitHub
   + Deep Learning
   
@@ -29,6 +20,12 @@ I have always enjoyed coding, and I am often open to learning new programming la
 + [Certificates](#certificates)
 + [Educations](#educations)
 + [Contact](#contact)
+
+### About me</br>
+During my years of studies, I have experienced many forms of technology, especially AI, I was able to learn and added many implementations, and algorithms towards my skillset and utilize it into my projects and future project. I have also gain many relevant hard skills from two of my internships.
+</br>
+</br>
+I have always enjoyed coding, and I am often open to learning new programming languages from time to time when I am available to do so. Therefore, I am quite versatile in multiple progamming languages, but the most proficient language has to go to _Python_. I love to keep up with the advancement of technology by reading and watching news, usually topics that are related to Artificial Intelligence.
 
 ## <p align=center>Projects in GitHub
 _~Note_</br>
