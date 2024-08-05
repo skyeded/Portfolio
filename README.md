@@ -102,7 +102,7 @@ By leveraging the use of StarGAN facial images can also be created with entangli
 
 #### Car Sales Analysis
 
-Source File: [Car-Sales-Analysis](https://github.com/skyeded/Data-Analysis/blob/main/Car-Sales-Analysis.ipynbs) </br>
+Source File: [Car-Sales-Analysis](https://github.com/skyeded/Data-Analysis/blob/main/Car-Sales-Analysis.ipynb) </br>
 
 Objective: To analyze and explore the car sales dataset
 
