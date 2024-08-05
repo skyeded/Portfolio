@@ -119,6 +119,12 @@ from certain period of times.
 
 ## <p align=center>Certificates
 
+#### 📜 Certificate of KAIT Technical Training Program - Kanagawa Institute of Technology
+
+#### 📜 Certificate of LINE MAN Wongnai Junior Internship Program (Engineering Team) - LINEMAN Wongnai
+
+#### 📜 Certificate of Completion (MLOps & LLMOps) - Udemy
+
 ## <p align=center>Educations
 
 #### 🎓Sirindhorn Institute of Technology - Graduated First-class honor, Bachelor of Computer Engineer (May 2024)
@@ -126,3 +132,9 @@ from certain period of times.
 #### 🎓International Pioneers School - Diploma in Sciences
 
 ## <p align=center>Contact
+
+#### ✉️Email: angelts1234@gmail.com
+
+#### 📞Mobile Phone: (+66)90-895-1122
+
+### <p align=center> Thank you for your time!
