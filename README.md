@@ -17,7 +17,7 @@ I have always enjoyed coding, and I am often open to learning new programming la
     + [Dog Breeds Classification](#dog-breeds-classification)
     + [Face Generation](#face-generation)
   
-  + Data Analysis 
+  + [Data Analysis](https://github.com/skyeded/Data-Analysis)
     + [Car Sales Analysis](#car-sales-analysis)
   
 + Experiences
