@@ -31,7 +31,7 @@ I have always enjoyed coding, and I am often open to learning new programming la
 _~Note_</br>
 The projects that can be found in this GitHub are a combination of multiple deep learning, machine learning projects, as well as data analysis on certain datasets. The projects found here can be part of the studies for the 'Deep Learning' coursework.
 
-### Deep Learning Projects
+### <p align=center>Deep Learning Projects
 
 ---
 
@@ -98,7 +98,9 @@ By leveraging the use of StarGAN facial images can also be created with entangli
 
 ---
 
-### Data Analysis
+### <p align=center>Data Analysis
+
+---
 
 #### Car Sales Analysis
 
@@ -108,6 +110,8 @@ Objective: To analyze and explore the car sales dataset
 
 Sypnosis: By analysing and exploring the data of car sales, insights can be made and used to furthur improve or optimize business decision in automotive fields. Prediction is indeed possible when it comes to carefully analyzing the correlation which could be made
 from certain period of times.
+
+---
 
 ## <p align=center>Experiences
 
