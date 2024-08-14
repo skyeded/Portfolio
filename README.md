@@ -120,7 +120,8 @@ from certain period of times.
 
 ---
 
-#### Poisonous Mushroom (Kaggle) (Unfinished)
+#### Poisonous Mushroom
+(Kaggle) (Unfinished)</br>
 
 Source File: [Poisonous-Mushroom](https://github.com/skyeded/Data-Science)
 
