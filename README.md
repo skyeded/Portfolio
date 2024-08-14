@@ -129,6 +129,8 @@ from certain period of times.
 
 #### 📜 Certificate of Completion (MLOps & LLMOps) - Udemy
 
+#### 📜 Databases and SQL for Data Science with Python - IBM (Coursera)
+
 ## <p align=center>Educations
 
 #### 🎓Sirindhorn Institute of Technology - Graduated First-class honor, Bachelor of Computer Engineer (May 2024)
