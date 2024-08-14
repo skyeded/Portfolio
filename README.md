@@ -20,7 +20,8 @@ I have always enjoyed coding, and I am often open to learning new programming la
   + [Data Analysis](https://github.com/skyeded/Data-Analysis)
     + [Car Sales Analysis](#car-sales-analysis)
 
-  + [Data Science]()
+  + [Data Science](https://github.com/skyeded/Data-Science)
+    + [Poisonous Mushroom](#poisonous-mushroom) (Kaggle) (Unfinished)
   
 + Experiences
   + [Internships](#internships)
@@ -112,6 +113,16 @@ Objective: To analyze and explore the car sales dataset
 
 Sypnosis: By analysing and exploring the data of car sales, insights can be made and used to furthur improve or optimize business decision in automotive fields. Prediction is indeed possible when it comes to carefully analyzing the correlation which could be made
 from certain period of times.
+
+---
+
+### <p align=center>Data Science
+
+---
+
+#### Poisonous Mushroom (Kaggle) (Unfinished)
+
+Source File: [Poisonous-Mushroom](https://github.com/skyeded/Data-Science)
 
 ---
 
