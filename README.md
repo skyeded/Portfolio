@@ -123,7 +123,9 @@ from certain period of times.
 #### Poisonous Mushroom
 (Kaggle) (Unfinished)</br>
 
-Source File: [Poisonous-Mushroom](https://github.com/skyeded/Data-Science)
+Source File: [Poisonous-Mushroom](https://github.com/skyeded/Data-Science/blob/main/Poisonous-Mushroom.ipynb)
+
+Kaggle Link: [Binary Prediction of Poisonous Mushrooms](https://www.kaggle.com/competitions/playground-series-s4e8/overview)
 
 ---
 
