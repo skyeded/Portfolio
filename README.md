@@ -117,7 +117,7 @@ from certain period of times.
 
 ### Internships
 
-#### 💡AI Researcher - Kanagawa Institute of Technology (Jan 2024 - May 2024) _Atsugi, Kanagawa, Japan_
+#### 💡AI Researcher - Kanagawa Institute of Technology (Jan 2024 - May 2024) _Atsugi, Kanagawa, Japan_ [Project Source](https://github.com/skyeded/KAIT-Project/blob/main/cnn-lstm-landmarkPoints.ipynb)
 
 #### 💡Android Developer - LINEMAN Wongnai (May 2023 - August 2023) _Bangkok, Thailand_
 
