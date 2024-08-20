@@ -139,13 +139,21 @@ Kaggle Link: [Binary Prediction of Poisonous Mushrooms](https://www.kaggle.com/c
 
 #### Genogram
 
-Source Repo: [Genogram](https://github.com/skyeded/Genogram/tree/main)
+Source Repo: [Genogram](https://github.com/skyeded/Genogram/tree/main)</br>
+
+Description: This project is an interactive web application for creating genograms from household survey data to aid social workers. Machine Learning is put to use to fill in some of the missing data. </br>
+
+Skills used: Machine Learning, React.js, Node.js, MUI, PostgreSQL
 
 ---
 
 #### Store Transaction Page
 
-Sourec Repo: [Store](https://github.com/skyeded/Project-Store-Xooy)
+Sourec Repo: [Store](https://github.com/skyeded/Project-Store-Xooy)</br>
+
+Description: This project is an interactive web application for ordering product through transaction using MySQL as RDBMS.
+
+Skills used: HTML, PHP, CSS, MySQL
 
 ---
 
