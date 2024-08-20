@@ -23,6 +23,9 @@ I have always enjoyed coding, and I am often open to learning new programming la
   + [Data Science](https://github.com/skyeded/Data-Science)
     + [Poisonous Mushroom](#poisonous-mushroom) (Kaggle) (Unfinished)
   
+  + [Frontend - Backend](#frontend-backend)
+    + [Genogram](#genogram)
+  
 + Experiences
   + [Internships](#internships)
   
@@ -126,6 +129,22 @@ from certain period of times.
 Source File: [Poisonous-Mushroom](https://github.com/skyeded/Data-Science/blob/main/Poisonous-Mushroom.ipynb)
 
 Kaggle Link: [Binary Prediction of Poisonous Mushrooms](https://www.kaggle.com/competitions/playground-series-s4e8/overview)
+
+---
+
+### <p align=center>Frontend Backend
+
+---
+
+#### Genogram
+
+Source Repo: [Genogram](https://github.com/skyeded/Genogram/tree/main)
+
+---
+
+#### Store Transaction Page (with MySQL)
+
+Sourec Repo: [Store](https://github.com/skyeded/Project-Store-Xooy)
 
 ---
 
