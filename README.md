@@ -25,7 +25,7 @@ I have always enjoyed coding, and I am often open to learning new programming la
   
   + [Frontend - Backend](#frontend-backend)
     + [Genogram](#genogram)
-    + [Store Transaction](#store-transaction-page-(with-MySQL))
+    + [Store Transaction](#store-transaction-page)
   
 + Experiences
   + [Internships](#internships)
@@ -143,7 +143,7 @@ Source Repo: [Genogram](https://github.com/skyeded/Genogram/tree/main)
 
 ---
 
-#### Store Transaction Page (with MySQL)
+#### Store Transaction Page
 
 Sourec Repo: [Store](https://github.com/skyeded/Project-Store-Xooy)
 
