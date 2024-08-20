@@ -25,7 +25,7 @@ I have always enjoyed coding, and I am often open to learning new programming la
   
   + [Frontend - Backend](#frontend-backend)
     + [Genogram](#genogram)
-    + [Store Transaction](#store-transaction-page)
+    + [Store Transaction](#store-transaction-page-(with-MySQL))
   
 + Experiences
   + [Internships](#internships)
