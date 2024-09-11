@@ -23,7 +23,7 @@ I have always enjoyed coding, and I am often open to learning new programming la
   + [Data Science](https://github.com/skyeded/Data-Science)
     + [Poisonous Mushroom](#poisonous-mushroom) (Kaggle) (Unfinished)
   
-  + [Frontend - Backend](#frontend-backend)
+  + [Full-Stack](#full-stack)
     + [Genogram](#genogram)
     + [Store Transaction](#store-transaction-page)
   
@@ -133,7 +133,7 @@ Kaggle Link: [Binary Prediction of Poisonous Mushrooms](https://www.kaggle.com/c
 
 ---
 
-### <p align=center>Frontend Backend
+### <p align=center>Full-Stack
 
 ---
 
